@@ -1,7 +1,7 @@
 public class CopyOfBase extends CopyOfCopyOfBase {
 	public String aa;
 	public String aa2 = "saf";
-	public String aa3;
+	public String aa3;//ssssssssssssss
 	public String aa1;
 	public String aa22;
 	public String aa111;
