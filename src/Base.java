@@ -3,6 +3,7 @@ public class Base extends CopyOfBase {
 	//ssssssssssssssssssssssssssssssssssssssssssssssssss
 	//dddddddddddddddddddddddddddddddddddddddddddddddddddd
 	//fff
+	//gggg
 	public String a;
 	public String a2 = "saf";
 	public String a3;
