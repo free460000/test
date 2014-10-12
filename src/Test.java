@@ -8,7 +8,7 @@ public class Test {
 	static long times = 100000;
 
 	public static void main(String[] args) {
-		testSingle();
+		testSingle();//delete
 		testFull();
 	
 		System.out.println(getDBFieldList(TestModel.class).size());
