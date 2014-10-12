@@ -7,6 +7,7 @@ import java.lang.annotation.Target;
 @Retention(RetentionPolicy.RUNTIME)
 public @interface TestAnnotation {
 //aaaaaa
+//aaaassss
 	public String value_test() default "s";
 
 	public String test_test() default "aa";
