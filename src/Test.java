@@ -10,26 +10,7 @@ public class Test {
 	public static void main(String[] args) {
 		testSingle();
 		testFull();
-		testSingle();
-		testFull();
-		testSingle();
-		testFull();
-		testSingle();
-		testFull();
-		testSingle();
-		testFull();
-		testSingle();
-		testSingle();
-		testFull();
-		testSingle();
-		testFull();
-		testSingle();
-		testFull();
-		testSingle();
-		testFull();
-		testSingle();
-		testFull();
-		testSingle();
+	
 		System.out.println(getDBFieldList(TestModel.class).size());
 
 		Class<?> c = TestModel.class;
